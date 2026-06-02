@@ -233,19 +233,8 @@ pip install pydeseq2 gseapy shap
 
 ---
 
-## 📚 Referencias
-
-- **PyDESeq2**: https://github.com/owkin/pydeseq2
-- **GseaPy**: https://gseapy.readthedocs.io/
-- **DESeq2 Paper**: Love et al. (2014) Genome Biology
-- **GSEA Method**: Subramanian et al. (2005) PNAS
-
----
 
 ## 📧 Contacto
 
-Para preguntas o sugerencias sobre este pipeline, contactar a los autores.
+Para preguntas o sugerencias sobre este pipeline, contactar a través de LinkedIn: https://www.linkedin.com/in/sebastian-toro-arango-biotech/.
 
----
-
-*Last updated: 2026-06-02*
