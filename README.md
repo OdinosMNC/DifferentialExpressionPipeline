@@ -2,7 +2,7 @@
 
 Un pipeline completo para el análisis de expresión diferencial de RNA-seq, incluyendo análisis de vías metabólicas y aplicación de técnicas de Machine Learning.
 
-**Autores:** Sebastián Toro & Gemini  
+**Autores:** Sebastián Toro 
 **Fecha:** 2026-05-08
 
 ---
